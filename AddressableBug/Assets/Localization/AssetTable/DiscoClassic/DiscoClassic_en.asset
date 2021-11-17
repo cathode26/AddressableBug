@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: DiscoClassic_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 23b6b09d526ab454280628eaba6a74c8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 777583226880
+    m_Localized: 223a03c8164fa7f438b9f9d9c4e41742
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4814831513600
+    m_Localized: 9557a7de11259ea4397c7c88b1d3bd38
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107603129692160
+    m_Localized: 0a2b79b72d8ed104b920e1666e2b95a7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107608167051264
+    m_Localized: 214d57e7a6785d840835dcc8787e3f69
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468584955539456
+    m_Localized: c4c4bafb7896d2f4dad8b1587b360b65
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468588893990912
+    m_Localized: 1460ba1e4cf11044db651cea1225a014
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

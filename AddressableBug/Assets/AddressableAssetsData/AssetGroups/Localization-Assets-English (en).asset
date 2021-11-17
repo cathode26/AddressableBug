@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 374f3e214b37d874cafdce8664a73276
+  m_SerializeEntries:
+  - m_GUID: 223a03c8164fa7f438b9f9d9c4e41742
+    m_Address: spin_btn
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 9557a7de11259ea4397c7c88b1d3bd38
+    m_Address: spin_btn_down
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 0a2b79b72d8ed104b920e1666e2b95a7
+    m_Address: stop_btn
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 214d57e7a6785d840835dcc8787e3f69
+    m_Address: stop_btn_down
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: c4c4bafb7896d2f4dad8b1587b360b65
+    m_Address: max_btn
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 1460ba1e4cf11044db651cea1225a014
+    m_Address: max_btn_down
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a3a24a486350c4f48a3df51abefa3ad9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 153b7b3ad5a472143aea2e88ee621b81, type: 2}
+    - {fileID: 11400000, guid: 8b6ddd178a88eb346b729ddda2c63d1e, type: 2}

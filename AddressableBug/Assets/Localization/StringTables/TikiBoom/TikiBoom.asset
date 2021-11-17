@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: TikiBoom
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 31a6a082935a31b4ca03d057169f3aa6, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: c57e49b07a200de45969e81d8a9ab605, type: 2}
+  - {fileID: 11400000, guid: ee3d3c991b046564d975468bb00cc425, type: 2}
+  - {fileID: 11400000, guid: 72aee8c3fe7e5a54697adae3c79ea6be, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 1

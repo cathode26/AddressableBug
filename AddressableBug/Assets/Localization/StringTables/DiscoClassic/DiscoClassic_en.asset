@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DiscoClassic_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 93397cbbaa2bf954d963a65433f0ece2, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 23204098048
+    m_Localized: LINE {0:N0} PAYS {1:N0}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1065434116096
+    m_Localized: COIN BALANCE
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8684450246656
+    m_Localized: '{0:N0}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 37046145150976
+    m_Localized: '{0:N0}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3293423886036992
+    m_Localized: '{0:N0}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1057418239963136
+    m_Localized: TOTAL BET
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 12607090649624576
+    m_Localized: TOTAL WIN
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 20733476585238528
+    m_Localized: You are about to bet
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 20733485280030720
+    m_Localized: '{0:N0} Coins.'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 20733491256913920
+    m_Localized: Click again to spin.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 21081419395862528
+    m_Localized: Scatter Pay won!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 21082041247567872
+    m_Localized: Won Free Spins!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 21082339487748096
+    m_Localized: "Bonus <0:S0> triggered!\t"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 21115694690308096
+    m_Localized: Playing {0:N0} lines.    Best of luck!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 21117476174794752
+    m_Localized: Playing {0:N0} ways.    Best of luck!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 21127994631417856
+    m_Localized: Bets Options
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 21128002244079616
+    m_Localized: Updated!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 21129969779503104
+    m_Localized: New Max Bet
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 21129971935375360
+    m_Localized: Unlocked!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 24265229530722304
+    m_Localized: PLAYING {0:N0} LINES
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 24265779559165952
+    m_Localized: BEST OF LUCK!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 24286587249651712
+    m_Localized: GOOD LUCK!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 24286742761861120
+    m_Localized: TOTAL WIN
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 24287477750722560
+    m_Localized: +{0:N0}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0070929cb1a3030000709201e60700000070527ab12100000070d2c71ca803000070925eb7c10300007012f99218050000701267050000000070d210f80000000070123d08ad0b000070d2005ab30b000070d20715ca2c000070d2b2fca84900007012b9fea849000070521d00a949000070d296cc0f4b000070925cce0f4b000090f3913b064b00009033c99c044b00009033ac46e64a000090b33b01e64a000090737270e54a000070d27698114b00007052f798114b0000709202193556000070d212993556000070d2bd85485600007012f3a94856000070d21355495600

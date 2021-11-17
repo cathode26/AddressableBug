@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9aa07cb4d3eab7547837c3b61ebb2ab6
+  m_SerializeEntries:
+  - m_GUID: 93397cbbaa2bf954d963a65433f0ece2
+    m_Address: Assets/Localization/StringTables/UI/UI Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 23b6b09d526ab454280628eaba6a74c8
+    m_Address: Assets/Localization/AssetTable/DiscoClassic/DiscoClassic Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 31a6a082935a31b4ca03d057169f3aa6
+    m_Address: Assets/Localization/StringTables/TikiBoom/TikiBoom Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a3a24a486350c4f48a3df51abefa3ad9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84e6f0f734093e04e85c4d51c8a876e3, type: 2}
+    - {fileID: 11400000, guid: cc87d1a9e96e4184191c0eee2a5c5e9f, type: 2}
